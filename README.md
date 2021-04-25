@@ -11,3 +11,6 @@
 ## Inicializando a aplicação
 - Terminal ``yarn dev``
 - Navegador ``http://localhost:3000/``
+
+
+1:27

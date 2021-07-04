@@ -7,10 +7,8 @@
 - Terminal ``yarn add date-fns``
 - Terminal ``yarn add json-server -D``
 - Terminal ``yarn add axios``
+- Terminal ``yarn add rc-slider``
 
 ## Inicializando a aplicação
 - Terminal ``yarn dev``
 - Navegador ``http://localhost:3000/``
-
-
-1:27

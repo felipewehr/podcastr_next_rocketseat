@@ -1,5 +1,17 @@
 # **Notas de desenvolvimento** | Podcastr Next
 
+## Descrição do projeto
+
+- Website desenvolvido durante a semana NLW 5 da Rocketseat, utilizando NEXT.js.
+- Player de podcasts da Rocketseat, com funções básicas (play, pause, next, repeat).
+- Exibição de todos os podcasts da API junto com a descrição.
+
+## Imagens do projeto
+
+![Alt text](images/principal.png?raw=true "Principal")
+
+![Alt text](images/episodio.png?raw=true "Episodio")
+
 ## Iniciando o projeto
 
 - Terminal `npx create-next-app podcastr-next`
@@ -15,7 +27,3 @@
 - Terminal `yarn dev`
 - Terminal `yarn server`
 - Navegador `http://localhost:3000/`
-
-## Acompanhamento aula
-
-- Aula 05 (38:11min)
